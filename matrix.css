@@ -1,0 +1,28 @@
+.prodamus-payform-widget {
+  z-index: 110001;
+  position: fixed;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 100%;
+  top: 0;
+}
+
+.prodamus-payform-widget_v3 {
+  z-index: 110001;
+  position: fixed;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: 400px;
+  top: 0;
+}
+
+.prodamus-white-label-widget {
+  width: 100%;
+  height: 100%;
+}
